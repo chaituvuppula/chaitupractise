@@ -21,11 +21,12 @@ class Ideone
 		System.out.println("Price: "+ideone.price);
 	}
 	
+	@Test
 	public static void Test1(){
 		System.out.println("Test1 Method");
 		
 	}
-	
+	@Test
 	public void Test2(){
 		System.out.println("Test2 Method");
 	}
